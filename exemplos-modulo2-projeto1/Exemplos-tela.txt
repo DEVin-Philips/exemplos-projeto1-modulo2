@@ -1,0 +1,85 @@
+Cadastre o paciente:
+Nome Completo: André Santana Nunes
+Gênero: masculino
+Data de Nascimentoi: 17/12/2010
+Contato de Emergência: 11231231412
+Tem alergia: SIM
+Insira uma alergia: Penicilina
+Insira uma alergia:
+Tem cuidado especifico(SIM/NAO): NAO 
+Numero convenio:
+Validade do Convenio:
+
+Paciente cadastrado com sucesso!!
+
+Bem vindo ao sistema NOME_DO_SISTEMA
+Selecione uma das opções abaixo
+1. Cadastro de Paciente
+2. Cadastro de Enfermeiro
+3. Cadastro de Médico
+4. Realização de Atendimento Médico
+5. Atualização do Status de Atendimento do Paciente
+6. Relatórios
+
+Número selecionado: 6
+
+Selecione o Relatorio:
+1. Relatorio de pacientes
+2. Relatorio de medicos
+3. Relatorio de enfermeiros
+4. Relatorio geral
+Selecione: 2
+
+Selecione a especialidade do medico:
+1. Clínico Geral
+2. Anestesista
+3. Dermatologia
+4. Ginecologia
+5. Neurologia
+6. Pediatria
+7. Psiquiatria
+8. Ortopedia
+9. Todos
+10. Voltar uma tela
+11. Voltar tela inicial
+
+Exibindo medicos:
+......
+
+Selecione o tipo de medico
+
+
+
+
+
+
+Atendimento médico inciado.
+1 - Nome medico
+2 - medico 2
+3 - medico 2
+4 - medico 2
+Selecione o identificador do médico: 1
+1 - Nome paciente
+2 - paciente 2
+3 - paciente 2
+4 - paciente 2
+Selecione o identificador do pacente: 2
+
+Atendimento realizado com sucesso. 
+O status de atendimento do paciente está com Em Andamento.
+
+(Volta para o menu inicial automaticamente)
+
+
+
+(Atualizar status paciente)
+Selecione o paciente a ser atualizado: 2
+Status possíveis:
+1. Aguardando Atendimento
+2. Em Atendimento
+3. Atendido
+4. Não Atendido
+Selecione um dos status acima: 3
+O paciente [Nome dele] está com o status Atendido.
+
+(Voltar para tela inicial)
